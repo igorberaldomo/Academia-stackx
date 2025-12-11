@@ -7,7 +7,7 @@ function Header({ page, setPage }) {
         <div className="header">
             <div className="selector">
                 <h3 >
-                   Nosso blog
+                   Novo projeto de AI
                 </h3>
             </div>
 
