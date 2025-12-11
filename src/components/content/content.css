@@ -1,7 +1,7 @@
 .backpage{
     padding: 0px;
     margin: 0px;
-    height: 600px;
+    height: 400px;
     background-color: lightcyan;
     display: flex;
     flex-direction: column;

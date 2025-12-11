@@ -10,13 +10,13 @@ function Content() {
                 </p>
 
                 <p className="paragraph">
-                    Esse projeto tem como objetivo a criação de um aplicativo que utiliza inteligência artificial para ajudar os alunos a fazerem deploy de aplicações em diversas linguagems
+                    Esse projeto tem como objetivo a criação de um aplicativo que utiliza inteligência artificial para ajudar os alunos a fazerem deploy de aplicações em diversas linguagems.
                 </p>
                 <p className="paragraph">
-                    Atualmente temos como linguagens a python, java, c, c++ e javascript, com estimativa de node e react como proximas linguagens a serem adicionados
+                    Atualmente temos como linguagens a python, java, c, c++ e javascript, com estimativa de node e react como proximas linguagens a serem adicionados.
                 </p>
                 <p className="paragraph">
-                    O custo atual dessa iniciativa está em 50 mil reais, com o intuito de ajudar os alunos a aprenderem e desenvolverem habilidades essenciais para a vida profissional
+                    O custo atual dessa iniciativa está em 50 mil reais, com o intuito de ajudar os alunos a aprenderem e desenvolverem habilidades essenciais para a vida profissional.
                 </p>
             </div>
 
