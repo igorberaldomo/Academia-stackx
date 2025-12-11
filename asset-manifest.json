@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//igorberaldomo.github.io/Academia-stackx/static/css/main.1234757a.css",
+    "main.js": "//igorberaldomo.github.io/Academia-stackx/static/js/main.0b36cfb9.js",
+    "static/js/453.10452482.chunk.js": "//igorberaldomo.github.io/Academia-stackx/static/js/453.10452482.chunk.js",
+    "index.html": "//igorberaldomo.github.io/Academia-stackx/index.html",
+    "main.1234757a.css.map": "//igorberaldomo.github.io/Academia-stackx/static/css/main.1234757a.css.map",
+    "main.0b36cfb9.js.map": "//igorberaldomo.github.io/Academia-stackx/static/js/main.0b36cfb9.js.map",
+    "453.10452482.chunk.js.map": "//igorberaldomo.github.io/Academia-stackx/static/js/453.10452482.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1234757a.css",
+    "static/js/main.0b36cfb9.js"
+  ]
+}
