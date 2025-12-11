@@ -7,3 +7,29 @@ para ver a pagina web
 1º cd ./academia-stackx
 
 2º npm run start
+
+no terminal
+npm install gh-pages --save-dev
+
+alterar uuupackage.json
+{
+  "homepage": "https://https://igorberaldomo.github.io/Academia-stackx/",
+  ...,
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    ...
+  }
+}
+
+no terminal:
+    npm run deploy
+
+no github:  
+    no Settings-> Pages
+        Branch
+            select gh-pages /root 
+            click save
+
+    reload Settings->Pages
+        get link in visit your site
