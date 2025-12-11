@@ -1,0 +1,84 @@
+.backpage{
+    padding: 0px;
+    margin: 0px;
+    height: 600px;
+    background-color: lightcyan;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.486);  
+}
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.paragraph {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    width: 500px;
+}
+.title{
+    text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 600;
+}
+.toblog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 20px;
+    font-weight: 600;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.line{
+
+    height: 1000px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.post{
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: center;
+    background-color: white;
+    width: 300px;
+    height: 350px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 0px;
+}
+.imgpost{
+    
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+}
+.titlepost{
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.486);
+    padding: 0px;
+    margin: 0px;
+}
+.titleparagraph{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.486);
+    padding: 0px;
+    margin: 0px;
+}

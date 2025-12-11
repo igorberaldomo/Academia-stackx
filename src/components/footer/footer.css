@@ -1,0 +1,12 @@
+.footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 1px 1px 1px rgba(146, 146, 146, 0.486);
+    padding: 10px;
+    margin: 0px;
+}
